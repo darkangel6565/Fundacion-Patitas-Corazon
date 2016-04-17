@@ -5,15 +5,15 @@
 	position: relative;	 
 }
 h1{
-	font-family: 'Open Sans', cursive;
-	color: #0994DB;
+	font-family: 'Arial Rounded MT Bold', cursive;
+	color: #FE642E;
 	margin-left: 10px;
 	font-size: 20px;
 	text-align: left;
 }
 h2{
-	font-family: 'Shadows Into Light', cursive;
-	color: #34287F;
+	font-family: 'Times New Roman', cursive;
+	color: #0101DF;
 	margin-left: 10px;
 	font-size: 20px;
 	text-align: left;
@@ -44,7 +44,7 @@ aside{
 	float: left;
 	margin-left: 20px;
 	margin-top: 20px;
-	background-color: rgba(255, 255, 94, 0.4);
+	background-color: #6E6E6E;
 }
 IMG.imgcenter{
     display: block;
@@ -67,7 +67,7 @@ ul li{
 	width: 80px;
 	height: 20px;
 	padding: 3px;
-	border: 1px solid #34287F;
+	border: 1px solid #B40404;
 	float: left;
 	text-align: center;
 	font-weight: bolder;
@@ -87,7 +87,7 @@ footer{
     width: 1000px;
     height: auto;
     float: left;
-    background: #ADD8E6;
+    background: #B40404;
     margin-bottom: 20px;
 }
 p{
